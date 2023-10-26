@@ -1,5 +1,6 @@
 ﻿using Mageza.Data;
 using Microsoft.Extensions.Logging;
+using MudBlazor.Services;
 
 namespace Mageza
 {
@@ -21,7 +22,7 @@ namespace Mageza
 		builder.Services.AddBlazorWebViewDeveloperTools();
 		builder.Logging.AddDebug();
 #endif
-
+            builder.Services.AddMudServices();
             builder.Services.AddSingleton<WeatherForecastService>();
 
             return builder.Build();
