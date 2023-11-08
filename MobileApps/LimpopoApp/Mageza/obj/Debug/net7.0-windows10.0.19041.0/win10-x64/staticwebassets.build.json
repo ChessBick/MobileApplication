@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8LgrU0LTlbWdky3ukaxW/ji9yGY27wPGdeAlkhwKzhs=",
+  "Hash": "kw0tguTH391vQufZ0X4i6ZnVoNwbGEOZL2d4QO7TJAY=",
   "Source": "Mageza",
   "BasePath": "/",
   "Mode": "Root",
@@ -287,6 +287,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\MobileDev\\MobileApplication\\MobileApps\\LimpopoApp\\Mageza\\wwwroot\\js\\HereMaps.js",
+      "SourceId": "Mageza",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MobileDev\\MobileApplication\\MobileApps\\LimpopoApp\\Mageza\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "js/HereMaps.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\HereMaps.js"
     },
     {
       "Identity": "C:\\Users\\sandile.Mahlangu\\.nuget\\packages\\mudblazor.thememanager\\1.0.8\\staticwebassets\\MudBlazorThemeManager.css",

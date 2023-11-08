@@ -5,7 +5,7 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LimpopoApp", "LimpopoApp", "{06A4B943-8159-4280-A959-51CA740A279F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mageza", "LimpopoApp\Mageza\Mageza.csproj", "{9FBE55BF-D135-45D1-9EFB-BCD99175E895}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mageza", "LimpopoApp\Mageza\Mageza.csproj", "{9FBE55BF-D135-45D1-9EFB-BCD99175E895}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,0 +1,1 @@
+C:\MobileDev\MobileApplication\MobileApps\LimpopoApp\Mageza\Mageza.csproj;x64
